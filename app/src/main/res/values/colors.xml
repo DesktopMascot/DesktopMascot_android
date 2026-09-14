@@ -1,0 +1,6 @@
+<resources>
+    <color name="background">#F7F7F7</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#202124</color>
+    <color name="text_secondary">#5F6368</color>
+</resources>

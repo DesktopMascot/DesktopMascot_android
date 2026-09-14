@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">デスクトップマスコット</string>
+    <string name="app_title">🐕 デスクトップマスコット</string>
+    <string name="mascot_content_description">マスコット</string>
+
+    <string name="app_subtitle">Android のホーム画面に住む小さなマスコットです。</string>
+
+    <string name="notification_channel_name">デスクトップマスコット</string>
+    <string name="notification_title">デスクトップマスコットは実行中です</string>
+    <string name="notification_text">タップしてマスコットの設定を開きます。</string>
+    <string name="accessibility_service_label">デスクトップマスコットのホーム画面表示</string>
+    <string name="accessibility_service_description">Android のホーム画面が前面に表示されているかを検出し、ホーム画面でのみマスコットを表示できるようにします。</string>
+
+    <string name="section_overlay">他のアプリの上に表示</string>
+    <string name="overlay_granted">オーバーレイ権限：許可済み</string>
+    <string name="overlay_not_granted">オーバーレイ権限：未許可</string>
+    <string name="grant_overlay">オーバーレイ権限を許可</string>
+
+    <string name="section_timing">タイミング</string>
+    <string name="sit_before_walking">歩く前に座る時間</string>
+    <string name="walk_duration">歩く時間</string>
+    <string name="sit_after_walking">歩いた後に座る時間</string>
+    <string name="rest_duration">休憩時間</string>
+    <string name="minimum">最短</string>
+    <string name="maximum">最長</string>
+    <string name="seconds">秒</string>
+
+    <string name="section_movement">動き</string>
+    <string name="walking_speed">歩く速度</string>
+    <string name="screen_margin">画面端からの余白（px）</string>
+    <string name="disable_breathing_animation">呼吸アニメーションを無効にする</string>
+
+    <string name="section_battery">バッテリー</string>
+    <string name="hide_low_battery">バッテリー残量が少ないときにマスコットを隠す</string>
+    <string name="battery_threshold">バッテリー残量のしきい値（%）</string>
+
+    <string name="section_manage_images">画像を管理</string>
+    <string name="manage_images_description">各マスコット状態で使用するPNGフレームを選択します。各状態には少なくとも1枚の画像が必要です。カスタム画像が不足している場合やファイルが見つからない場合は、デフォルトマスコットを使用します。</string>
+    <string name="load_default_mascot">デフォルトのマスコットを読み込む</string>
+    <string name="use_own_mascot">自分のマスコットを使用する</string>
+    <string name="default_mascot_active">内蔵のデフォルトマスコットを使用しています。</string>
+    <string name="default_mascot_loaded">デフォルトのマスコットを読み込みました。</string>
+    <string name="custom_mascot_ready">カスタムマスコットの準備ができました。設定を保存すると使用できます。</string>
+    <string name="custom_mascot_incomplete">カスタムマスコットが不完全です：%1$s。デフォルトのマスコットを使用します。</string>
+    <string name="mascot_sit">座る</string>
+    <string name="mascot_walk_left">左に歩く</string>
+    <string name="mascot_walk_right">右に歩く</string>
+    <string name="mascot_rest">休む</string>
+    <string name="choose_pngs">PNG を選択</string>
+    <string name="clear">クリア</string>
+    <string name="no_images_selected">画像が選択されていません</string>
+    <string name="images_selected">%1$d 枚の画像を選択済み</string>
+
+    <string name="section_visibility">表示</string>
+    <string name="visibility_description">マスコットは Android のホーム画面にのみ表示され、他のアプリでは非表示になります。</string>
+    <string name="open_accessibility">ユーザー補助設定を開く</string>
+    <string name="accessibility_enabled">ユーザー補助サービス：有効 — ホーム画面の表示制御が有効です。</string>
+    <string name="accessibility_disabled">ユーザー補助サービス：無効 — マスコットがホーム画面を検出できるよう、有効にしてください。</string>
+
+    <string name="save_settings">設定を保存</string>
+    <string name="settings_saved">設定を保存しました。</string>
+    <string name="start_mascot">マスコットを開始</string>
+    <string name="stop_mascot">マスコットを停止</string>
+    <string name="state_cycle_note">状態の繰り返し：座る → 歩く → 座る → 休む、その後繰り返します。</string>
+</resources>

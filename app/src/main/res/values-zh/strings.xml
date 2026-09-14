@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">桌面吉祥物</string>
+    <string name="app_title">🐕 桌面吉祥物</string>
+    <string name="mascot_content_description">吉祥物</string>
+
+    <string name="app_subtitle">一个生活在 Android 主屏幕上的小吉祥物。</string>
+
+    <string name="notification_channel_name">桌面吉祥物</string>
+    <string name="notification_title">桌面吉祥物正在运行</string>
+    <string name="notification_text">点击打开吉祥物设置。</string>
+    <string name="accessibility_service_label">桌面吉祥物主屏幕可见性</string>
+    <string name="accessibility_service_description">允许桌面吉祥物检测 Android 主屏幕是否位于前台，以便仅在主屏幕上显示吉祥物。</string>
+
+    <string name="section_overlay">悬浮窗权限</string>
+    <string name="overlay_granted">悬浮窗权限：已授予</string>
+    <string name="overlay_not_granted">悬浮窗权限：未授予</string>
+    <string name="grant_overlay">授予悬浮窗权限</string>
+
+    <string name="section_timing">时间设置</string>
+    <string name="sit_before_walking">行走前坐下</string>
+    <string name="walk_duration">行走时长</string>
+    <string name="sit_after_walking">行走后坐下</string>
+    <string name="rest_duration">休息时长</string>
+    <string name="minimum">最短</string>
+    <string name="maximum">最长</string>
+    <string name="seconds">秒</string>
+
+    <string name="section_movement">移动</string>
+    <string name="walking_speed">行走速度</string>
+    <string name="screen_margin">屏幕边距（像素）</string>
+    <string name="disable_breathing_animation">禁用呼吸动画</string>
+
+    <string name="section_battery">电池</string>
+    <string name="hide_low_battery">电量低时隐藏吉祥物</string>
+    <string name="battery_threshold">电池电量阈值（%）</string>
+
+    <string name="section_manage_images">管理图片</string>
+    <string name="manage_images_description">选择每种吉祥物状态使用的 PNG 帧。每种状态至少需要一张图片。如果自定义图片不完整或文件缺失，将改用内置默认吉祥物。</string>
+    <string name="load_default_mascot">加载默认吉祥物</string>
+    <string name="use_own_mascot">使用自己的吉祥物</string>
+    <string name="default_mascot_active">正在使用内置默认吉祥物。</string>
+    <string name="default_mascot_loaded">已加载默认吉祥物。</string>
+    <string name="custom_mascot_ready">自定义吉祥物已准备就绪。保存设置后即可使用。</string>
+    <string name="custom_mascot_incomplete">自定义吉祥物不完整。缺少：%1$s。将使用默认吉祥物。</string>
+    <string name="mascot_sit">坐下</string>
+    <string name="mascot_walk_left">向左行走</string>
+    <string name="mascot_walk_right">向右行走</string>
+    <string name="mascot_rest">休息</string>
+    <string name="choose_pngs">选择 PNG 图片</string>
+    <string name="clear">清除</string>
+    <string name="no_images_selected">未选择图片</string>
+    <string name="images_selected">已选择 %1$d 张图片</string>
+
+    <string name="section_visibility">可见性</string>
+    <string name="visibility_description">吉祥物仅显示在 Android 主屏幕上，在其他应用中会保持隐藏。</string>
+    <string name="open_accessibility">打开无障碍设置</string>
+    <string name="accessibility_enabled">无障碍服务：已启用 — 主屏幕可见性控制已生效。</string>
+    <string name="accessibility_disabled">无障碍服务：未启用 — 请启用它，以便吉祥物检测主屏幕。</string>
+
+    <string name="save_settings">保存设置</string>
+    <string name="settings_saved">设置已保存。</string>
+    <string name="start_mascot">启动吉祥物</string>
+    <string name="stop_mascot">停止吉祥物</string>
+    <string name="state_cycle_note">状态循环：坐下 → 行走 → 坐下 → 休息，然后重复。</string>
+</resources>

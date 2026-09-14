@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Desktop Mascot</string>
+    <string name="app_title">🐕 Desktop Mascot</string>
+    <string name="mascot_content_description">Mascot</string>
+
+    <string name="app_subtitle">A small mascot that lives on your Android home screen.</string>
+
+    <string name="notification_channel_name">Desktop Mascot</string>
+    <string name="notification_title">Desktop Mascot is running</string>
+    <string name="notification_text">Tap to open mascot settings.</string>
+    <string name="accessibility_service_label">Desktop Mascot home-screen visibility</string>
+    <string name="accessibility_service_description">Allows Desktop Mascot to detect when the Android home screen is in the foreground, so the mascot is shown only there.</string>
+
+    <string name="section_overlay">Overlay permission</string>
+    <string name="overlay_granted">Overlay permission: granted</string>
+    <string name="overlay_not_granted">Overlay permission: not granted</string>
+    <string name="grant_overlay">Grant overlay permission</string>
+
+    <string name="section_timing">Timing</string>
+    <string name="sit_before_walking">Sit before walking</string>
+    <string name="walk_duration">Walking duration</string>
+    <string name="sit_after_walking">Sit after walking</string>
+    <string name="rest_duration">Rest duration</string>
+    <string name="minimum">Min</string>
+    <string name="maximum">Max</string>
+    <string name="seconds">seconds</string>
+
+    <string name="section_movement">Movement</string>
+    <string name="walking_speed">Walking speed</string>
+    <string name="screen_margin">Screen margin (px)</string>
+    <string name="disable_breathing_animation">Disable breathing animation</string>
+
+    <string name="section_battery">Battery</string>
+    <string name="hide_low_battery">Hide mascot when the battery is low</string>
+    <string name="battery_threshold">Battery threshold (%)</string>
+
+    <string name="section_manage_images">Manage images</string>
+    <string name="manage_images_description">Choose the PNG frames used for each mascot state. Each state needs at least one image. If a custom set is incomplete or a file is missing, the built-in default mascot is used instead.</string>
+    <string name="load_default_mascot">Load default mascot</string>
+    <string name="use_own_mascot">Use your own mascot</string>
+    <string name="default_mascot_active">Using the built-in default mascot.</string>
+    <string name="default_mascot_loaded">Default mascot loaded.</string>
+    <string name="custom_mascot_ready">Custom mascot is ready. Save settings to use it.</string>
+    <string name="custom_mascot_incomplete">Custom mascot is incomplete. Missing: %1$s. The default mascot will be used.</string>
+    <string name="mascot_sit">Sit</string>
+    <string name="mascot_walk_left">Walk Left</string>
+    <string name="mascot_walk_right">Walk Right</string>
+    <string name="mascot_rest">Rest</string>
+    <string name="choose_pngs">Choose PNGs</string>
+    <string name="clear">Clear</string>
+    <string name="no_images_selected">No images selected</string>
+    <string name="images_selected">%1$d image(s) selected</string>
+
+    <string name="section_visibility">Visibility</string>
+    <string name="visibility_description">The mascot appears only on the Android home screen and stays hidden in other apps.</string>
+    <string name="open_accessibility">Open Accessibility settings</string>
+    <string name="accessibility_enabled">Accessibility service: enabled — home-screen visibility control is active.</string>
+    <string name="accessibility_disabled">Accessibility service: not enabled — enable it so the mascot can detect the home screen.</string>
+
+    <string name="save_settings">Save settings</string>
+    <string name="settings_saved">Settings saved.</string>
+    <string name="start_mascot">Start mascot</string>
+    <string name="stop_mascot">Stop mascot</string>
+    <string name="state_cycle_note">State cycle: Sit → Walk → Sit → Rest, then repeat.</string>
+</resources>
