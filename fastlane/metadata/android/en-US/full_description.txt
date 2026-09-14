@@ -1,0 +1,10 @@
+Desktop Mascot brings a small animated character to your Android screen.
+
+Features:
+
+- Animated sitting, walking, and resting
+- Use your own mascot PNG images
+- Multiple animation frames for walking
+- Adjustable movement behavior
+- Optional breathing animation
+- Works locally on your device
