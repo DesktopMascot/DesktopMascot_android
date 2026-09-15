@@ -1,6 +1,13 @@
 # Desktop Mascot
 
-An animated desktop-style mascot for Android.
+An animated desktop-style mascot for Android/Linux/Windows.
+
+| OS | Download |
+| ---- | -------- |
+| Android | Get it from F-Droid |
+| Linux / Windows | https://github.com/ekandr/desktopmascot/releases |
+
+----
 
 Desktop Mascot lets you keep a small animated character on top of your Android apps. The mascot can sit, walk around, and rest, giving your device a more playful desktop-pet style experience.
 
